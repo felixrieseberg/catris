@@ -1,5 +1,6 @@
 ﻿body {
-	background-image: url('images/bg.png');
+﻿	background-image: url('images/bg.png');
+﻿	font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 @media screen and (-ms-view-state: fullscreen-landscape) {
